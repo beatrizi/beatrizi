@@ -24,5 +24,5 @@ const Beatriz = {
  <p>I had participated in some of the following Full Stack projects:</p>
 
  
-<a href="https://development-phantom-kitchen.netlify.app/"><img align='middle' src="https://raw.githubusercontent.com/beatrizi/imagenes/main/ph.png?token=GHSAT0AAAAAABTNSKC7WNQDQB6A36S6GULIYST6XFA" alt="Phantom Kitchen app" width="108" ></a><span>        </span><a href="https://thirsty-murdock-a21364.netlify.app/"><img align='middle' src="https://raw.githubusercontent.com/beatrizi/imagenes/main/noob.png?token=GHSAT0AAAAAABTNSKC6MKDMLF6FBSUCAMVWYST6Y2A" alt="Noob Overflow app" width="300" ></a>
+<a href="https://development-phantom-kitchen.netlify.app/"><img align='middle' src="https://github.com/beatrizi/imagenes/blob/main/ph.png" alt="Phantom Kitchen app" width="108" ></a><span>        </span><a href="https://thirsty-murdock-a21364.netlify.app/"><img align='middle' src="https://github.com/beatrizi/imagenes/blob/main/noob.png" alt="Noob Overflow app" width="300" ></a>
 
