@@ -21,6 +21,9 @@ const Beatriz = {
  challenge: "Working in keeping learning"
 }
 ```
+ I participate in some of the following Full Stack projects:
+ 
+ 
 
 
 
