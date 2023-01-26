@@ -7,8 +7,7 @@
  
 
 
- <P><a href="https://www.linkedin.com/in/beatriz-b-b9b66836/?locale=en_US)"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+
  
  
  
