@@ -2,17 +2,6 @@
 <h2> I'm Beatriz! 
 
 
- 
-<img align='right' src="https://lh3.googleusercontent.com/RnAn0v1iruq7Oi56tWEBJFwMCxyRdAJhFYJ4JhjRGbPjtthAa1lF5eHCUc8WF6KEC2ymlDWkaT5giL4k6--0yPS5AvPagJ0JHz1tsVQCG2cNnP9p0xxROBIRsDxeVMq6QoAEeLB1" width="150" style="border-radius: 25px" >
- 
-
-
-
- 
- 
- 
- 
- 
 
 ```javascript
 const Beatriz = {
